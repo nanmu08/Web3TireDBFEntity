@@ -1,0 +1,12 @@
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\DataAccess.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\DataAccess.pdb
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\obj\Debug\DataAccess.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\obj\Debug\DataAccess.pdb
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\EntityFramework.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\EntityFramework.xml
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

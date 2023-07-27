@@ -1,0 +1,15 @@
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Itlize\VSFolder\Practice\Web3TireDBFEntity\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
